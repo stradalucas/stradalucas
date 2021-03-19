@@ -29,13 +29,12 @@ const lucas = {
 <!--
 **stradalucas/stradalucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[Frontend Mentor](https://frontendmentor.io/) 
+source:
+
+- https://gist.github.com/rxaviers/7360908
+- https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#links
 
 ### [<img src="zc.svg" height="27">](https://frontendmentor.io/)
-
-[Frontend Mentor](https://frontendmentor.io/)  | Challenges
-
-[Coderhouse](https://www.coderhouse.com/) |  Project
 
 Here are some ideas to get you started:
 
