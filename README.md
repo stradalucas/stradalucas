@@ -1,17 +1,28 @@
-## Hi there 👋 mi name is Lucas, I'm a Web developer trainee!
+## Hola 👋, soy Lucas!
 
-A little more about me...
+*Estudiente de Programación Web Full Stack en [apx.school](https://apx.school/). Actualmente en búsqueda de mi primera experiencia laboral como desarrollador web.*
 
-```javascript
-const lucas = {
-  pronouns: "he" | "his",
-  country: "Argentina",
-  skill: [HTML5, CSS3, Bootstrap, Sass, Git],
-  learning:  [Javascript]
-  }
-```
+### Lenguajes y tecnologías :zap:
+[![Node.js](https://img.shields.io/badge/Node.js--brightgreen.svg?logo=Node.js&logoWidth=20)](https://github.com/alexismunoz1?tab=repositories&q=&type=&language=javascript&language=typescript)
+[![Typescript](https://img.shields.io/badge/TypeScript--blue.svg?logo=typescript&logoWidth=20)](https://github.com/alexismunoz1?tab=repositories&q=&type=&language=typescript)
+[![JavaScript](https://img.shields.io/badge/JavaScript--yellow.svg?logo=javaScript&logoWidth=20)](https://github.com/alexismunoz1?tab=repositories&q=&type=&language=javascript)
+[![HTML5](https://img.shields.io/badge/HTML5--critical.svg?logo=HTML5&logoWidth=20)](https://github.com/alexismunoz1?tab=repositories&q=&type=&language=html) [![CSS3](https://img.shields.io/badge/CSS3--informational.svg?logo=CSS3&logoWidth=20)](https://github.com/alexismunoz1?tab=repositories&q=&type=&language=css) [![Firebase](https://img.shields.io/badge/Firebase--yellow.svg?logo=Firebase&logoWidth=20)](https://github.com/alexismunoz1)
+[![Git](https://img.shields.io/badge/Git--critical.svg?logo=git&logoWidth=20)](https://github.com/alexismunoz1)
+[![Github](https://img.shields.io/badge/Github--333.svg?logo=github&logoWidth=20)](https://github.com/alexismunoz1)
 
-## Repositories
+##
+### Proyectos :arrow_down::arrow_down::arrow_down:
+
+### [APX.School](https://apx.school/) | Challenges
+
+:pushpin:[Challenge-5 Rock-paper-scissors
+ ](https://github.com/stradalucas/apx-desafio-m5)
+<br>
+:pushpin:[Challenge-4 Portfolio](https://github.com/stradalucas/apx-desafio-m4)
+
+### [Coderhouse](https://www.coderhouse.com/) |  Project
+
+:pushpin:[Web development](https://nova-three.vercel.app/)
 
 ### [Frontend Mentor](https://frontendmentor.io/)  | Challenges
 
@@ -21,29 +32,3 @@ const lucas = {
 <br>
 :pushpin:[Signup form](https://signup-form-tree.vercel.app/)
 
-
-### [Coderhouse](https://www.coderhouse.com/) |  Project
-
-:pushpin:[Web development](https://nova-three.vercel.app/)
-
-<!--
-**stradalucas/stradalucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-source:
-
-- https://gist.github.com/rxaviers/7360908
-- https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#links
-
-### [<img src="zc.svg" height="27">](https://frontendmentor.io/)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
