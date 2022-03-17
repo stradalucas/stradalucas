@@ -18,7 +18,6 @@
 :pushpin:[Challenge-6 Rock-paper-scissors--Multiplayer
  ](https://github.com/stradalucas/apx-desafio-m6)
 <br>
-
 :pushpin:[Challenge-5 Rock-paper-scissors
  ](https://github.com/stradalucas/apx-desafio-m5)
 <br>
