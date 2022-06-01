@@ -4,9 +4,9 @@
 
 ### Lenguajes y tecnologías :zap:
 [![Node.js](https://img.shields.io/badge/Node.js--brightgreen.svg?logo=Node.js&logoWidth=20)](https://github.com/stradalucas?tab=repositories)
-[![Typescript](https://img.shields.io/badge/TypeScript--blue.svg?logo=typescript&logoWidth=20)](https://github.com/stradalucas?tab=repositories)
 [![JavaScript](https://img.shields.io/badge/JavaScript--yellow.svg?logo=javaScript&logoWidth=20)](https://github.com/stradalucas?tab=repositories)
-[![HTML5](https://img.shields.io/badge/HTML5--critical.svg?logo=HTML5&logoWidth=20)](https://github.com/stradalucas?tab=repositories) [![CSS3](https://img.shields.io/badge/CSS3--informational.svg?logo=CSS3&logoWidth=20)](https://github.com/stradalucas?tab=repositories) [![Firebase](https://img.shields.io/badge/Firebase--yellow.svg?logo=Firebase&logoWidth=20)](https://github.com/stradalucas?tab=repositories)
+[![HTML5](https://img.shields.io/badge/HTML5--critical.svg?logo=HTML5&logoWidth=20)](https://github.com/stradalucas?tab=repositories) 
+[![CSS3](https://img.shields.io/badge/Firebase--yellow.svg?logo=Firebase&logoWidth=20)](https://github.com/stradalucas?tab=repositories)
 [![Git](https://img.shields.io/badge/Git--critical.svg?logo=git&logoWidth=20)](https://github.com/stradalucas?tab=repositories)
 [![Github](https://img.shields.io/badge/Github--333.svg?logo=github&logoWidth=20)](https://github.com/stradalucas?tab=repositories)
 
