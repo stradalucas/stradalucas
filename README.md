@@ -1,7 +1,5 @@
 ## Hola 👋, soy Lucas!
 
-*Estudiante de Programación Web Full Stack en [apx.school](https://apx.school/). Actualmente en búsqueda de mi primera experiencia laboral como desarrollador web.*
-
 ### Lenguajes y tecnologías :zap:
 [![Node.js](https://img.shields.io/badge/Node.js--brightgreen.svg?logo=Node.js&logoWidth=20)](https://github.com/stradalucas?tab=repositories)
 [![JavaScript](https://img.shields.io/badge/JavaScript--yellow.svg?logo=javaScript&logoWidth=20)](https://github.com/stradalucas?tab=repositories)
